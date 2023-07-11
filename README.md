@@ -9,8 +9,8 @@ pip install -r requirements.txt
 
 No arquivo precisará ter as seguintes informações:
 
-DISCORD_BOT_TOKEN="Seu discord bot token"
-OPENAI_API_KEY="Sua api do chatgpt"
+<p>DISCORD_BOT_TOKEN="Seu discord bot token"</p>
+<p>OPENAI_API_KEY="Sua api do chatgpt"</p>
 
 ## Rodando o bot
 
